@@ -157,3 +157,9 @@ button, input, textarea { font: inherit; }
   .footer-inner div { flex-wrap: wrap; }
   .contact-form { padding: 22px; }
 }
+
+.home-project-grid .project-card:last-child{
+  grid-column: auto;
+  max-width: none;
+  margin: 0;
+}
