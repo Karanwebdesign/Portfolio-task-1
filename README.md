@@ -58,7 +58,7 @@ Open `index.html` in a browser, or use VS Code Live Server.
 7. Add the final live URL here.
 
 ## Live Demo
-Add your deployed link here.
+Website:(https://karanwebdesign.github.io/Portfolio-task-1/)
 
 ## Author
 Karandeep Kaur
