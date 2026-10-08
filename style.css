@@ -132,7 +132,7 @@ button, input, textarea { font: inherit; }
 .footer-inner div { display: flex; gap: 18px; }
 .footer a:hover { color: var(--primary); }
 
-.reveal { opacity: 1; transform: none; transition: opacity .65s ease, transform .65s ease;}
+.reveal { opacity: 0; transform: translateY(20px); transition: opacity .65s ease, transform .65s ease; }
 .reveal.visible { opacity: 1; transform: none; }
 
 @media (max-width: 850px) {
