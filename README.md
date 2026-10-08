@@ -49,15 +49,13 @@ portfolio-website/
 Open `index.html` in a browser, or use VS Code Live Server.
 
 ## Before Submission
-1. Replace `your-email@example.com` with your real email.
-2. Replace the LinkedIn URL with your actual profile.
-3. Add your own `resume.pdf` in the project root.
-4. Replace sample project descriptions with your real projects if required.
-5. Test every page on desktop and mobile.
-6. Take the required screenshots.
-7. Push the project to a public GitHub repository.
-8. Deploy with GitHub Pages, Netlify or Vercel.
-9. Add the final live URL here.
+1. Replace `karandeepkaur318@gmail.com` with your real email.
+2. Replace sample project descriptions with your real projects if required.
+3. Test every page on desktop and mobile.
+4. Take the required screenshots.
+5. Push the project to a public GitHub repository.
+6. Deploy with GitHub Pages, Netlify or Vercel.
+7. Add the final live URL here.
 
 ## Live Demo
 Add your deployed link here.
