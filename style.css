@@ -164,11 +164,4 @@ button, input, textarea { font: inherit; }
   margin: 0;
 }
 
-.project-card{
-  display: flex;
-  flex-direction: column;
-}
 
-.project-card a{
-  margin-top: auto;
-}
