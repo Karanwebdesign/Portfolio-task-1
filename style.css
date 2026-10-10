@@ -163,3 +163,12 @@ button, input, textarea { font: inherit; }
   max-width: none;
   margin: 0;
 }
+
+.project-card{
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card a{
+  margin-top: auto;
+}
